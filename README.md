@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmin004&label=Profile%20views&color=0e75b6&style=flat" alt="cosmin004" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning for at Raiffeisen Bank Romania**
+- 🔭 I’m currently working on **Machine Learning at Raiffeisen Bank Romania**
 
 - 🌱 I’m currently learning **Geometric Deep Learning and Blockchain**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manolescucosmin112@gmail.com**
 
-- ⚡ Fun fact **I like finances and rabbits**
+- ⚡ Fun fact **Climbing is my latest passion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
